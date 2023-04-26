@@ -22,7 +22,7 @@ Once the contract is deployed, you can interact with it by entering inputs and c
 
 ![image](https://user-images.githubusercontent.com/72584770/234551817-fc94e294-7f63-41be-8a5e-59fa6363bc21.png)
 
-For functions that require an address as an input, you can copy one from the samples provided by Remix which can be found in the left-hand sidebar as well:
+For functions that require an address as an input, you can copy one from the samples provided by Remix under the "ACCOUNT" dropdown which can be found in the left-hand sidebar as well:
 
 ![image](https://user-images.githubusercontent.com/72584770/234553227-a18b8544-5e0b-48a5-af7a-0c81f2bbbcc4.png)
 
