@@ -19,6 +19,7 @@ To compile the code, click on the "Solidity Compiler" tab in the left-hand sideb
 Once the code is compiled, you can deploy the contract by clicking on the "Deploy & Run Transactions" tab in the left-hand sidebar. Select the "MyToken" contract from the dropdown menu, and then click on the "Deploy" button.
 
 Once the contract is deployed, you can interact with it by entering inputs and calling the variables or functions in the sidebar. You can interact with them by simply clicking the buttons with the variable names or with the "transact" button for functions. It is recommended to click on the dropdown icons to make it easier to enter inputs:
+
 ![image](https://user-images.githubusercontent.com/72584770/234551817-fc94e294-7f63-41be-8a5e-59fa6363bc21.png)
 
 For functions that require an address as an input, you can copy one from the samples provided by Remix which can be found in the left-hand sidebar as well:
